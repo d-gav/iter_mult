@@ -1,0 +1,97 @@
+2024-10-30 23:05:15.203236 (1691823) main____ INFO    ----------------------------------------
+2024-10-30 23:05:15.203344 (1691823) main____ INFO    Jasper version info
+2024-10-30 23:05:15.203707 (1691823) main____ INFO      tool      : Jasper 2024.09
+2024-10-30 23:05:15.203716 (1691823) main____ INFO      version   : 2024.09 FCS 64 bits
+2024-10-30 23:05:15.203720 (1691823) main____ INFO      build date: 2024.09.26 14:35:17 UTC
+2024-10-30 23:05:15.203722 (1691823) main____ INFO    ----------------------------------------
+2024-10-30 23:05:15.203724 (1691823) main____ INFO    Runtime info:
+2024-10-30 23:05:15.203727 (1691823) main____ INFO      platform  : Linux 4.18.0-553.16.1.el8_10.x86_64 x86_64
+2024-10-30 23:05:15.203734 (1691823) main____ INFO      hostname  : ecelinux-09.ece.cornell.edu
+2024-10-30 23:05:15.203738 (1691823) main____ INFO      pid       : 1691823
+2024-10-30 23:05:15.203740 (1691823) main____ INFO      arguments : '-style' 'windows' '-fpv'
+2024-10-30 23:05:15.203743 (1691823) main____ INFO      locale    : UTF-8
+2024-10-30 23:05:15.203745 (1691823) main____ INFO    ----------------------------------------
+2024-10-30 23:05:15.203747 (1691823) main____ INFO    System resource limits info:
+2024-10-30 23:05:15.203750 (1691823) main____ INFO      virtual memory: unlimited
+2024-10-30 23:05:15.203758 (1691823) main____ INFO      cpu time      : 43200 s
+2024-10-30 23:05:15.203764 (1691823) main____ INFO      processes     : 127201
+2024-10-30 23:05:15.203768 (1691823) main____ INFO      stack size    : 8388608 B
+2024-10-30 23:05:15.203773 (1691823) main____ INFO      core file size: 10485760 B
+2024-10-30 23:05:15.203777 (1691823) main____ INFO      open files    : 1024
+2024-10-30 23:05:15.203780 (1691823) main____ INFO      file size     : unlimited
+2024-10-30 23:05:15.203783 (1691823) main____ INFO    ----------------------------------------
+2024-10-30 23:05:15.203786 (1691823) main____ INFO    Memory statistics:
+2024-10-30 23:05:15.203790 (1691823) main____ INFO      total physical memory  : 32621712 kB
+2024-10-30 23:05:15.203794 (1691823) main____ INFO      free physical memory   : 331488 kB
+2024-10-30 23:05:15.203812 (1691823) main____ INFO      committed address space: 141743060 kB
+2024-10-30 23:05:15.203815 (1691823) main____ INFO    ----------------------------------------
+2024-10-30 23:05:15.204310 (1691823) main____ INFO    Important environment variables:
+2024-10-30 23:05:15.204323 (1691823) main____ INFO      CDS_LIC_FILE         : '5280@flex.ece.cornell.edu'
+2024-10-30 23:05:15.204326 (1691823) main____ INFO      CDS_LIC_FILE_modshare: '5280@flex.ece.cornell.edu:1'
+2024-10-30 23:05:15.204329 (1691823) main____ INFO      DISPLAY              : 'localhost:10.0'
+2024-10-30 23:05:15.204331 (1691823) main____ INFO      JASPER_CPU_CHECK     : '1'
+2024-10-30 23:05:15.204334 (1691823) main____ INFO      JASPER_INSTALL_DIR   : '/opt/cadence/jasper_2024.09'
+2024-10-30 23:05:15.204336 (1691823) main____ INFO      JASPER_KERNEL_CHECK  : '1'
+2024-10-30 23:05:15.204338 (1691823) main____ INFO      JASPER_OS_CHECK      : '1'
+2024-10-30 23:05:15.204340 (1691823) main____ INFO      JASPER_PLATFORM      : 'Linux64'
+2024-10-30 23:05:15.204343 (1691823) main____ INFO      LANG                 : 'en_US.UTF-8'
+2024-10-30 23:05:15.204345 (1691823) main____ INFO    ----------------------------------------
+2024-10-30 23:05:15.205275 (1691823) lic_core INFO    Initializing license system ...
+2024-10-30 23:05:15.213511 (1691823) lic_core INFO    ... license system initialized.
+2024-10-30 23:05:15.236594 (1691823) lic__man INFO    Claim 'main' for <ui>.
+2024-10-30 23:05:15.236629 (1691823) lic_core INFO    (1) checking out 'jasper_interactive' ...
+2024-10-30 23:05:15.250647 (1691823) lic_core INFO    ... (1) checkout succeeded
+2024-10-30 23:05:15.250684 (1691823) lic__man INFO    Claim 'fpv' for <ui>.
+2024-10-30 23:05:15.250696 (1691823) lic_core INFO    (2) checking out 'jasper_fpv' ...
+2024-10-30 23:05:15.255931 (1691823) lic_core INFO    ... (2) checkout failed (error: -5) ("FLEXnet ERROR(-5, 0, 0): No such feature exists.")
+2024-10-30 23:05:15.255964 (1691823) lic_core INFO    (3) checking out 'jasper_fao' ...
+2024-10-30 23:05:15.266049 (1691823) lic_core INFO    ... (3) checkout succeeded
+2024-10-30 23:05:15.271452 (1691823) main____ INFO    Tool inactivity delay is 480000 ms.
+2024-10-30 23:05:16.836204 (1691823) lic__man INFO    Claim 'fpv' for <ui>.
+2024-10-30 23:05:17.806805 (1691823) lic__man INFO    Unclaim 'fpv' for <ui>.
+2024-10-30 23:05:17.806852 (1691823) lic__man INFO    Claim 'fpv' for <ui>.
+2024-10-30 23:05:17.812733 (1691823) session_ INFO    Starting analysis session with session id 'session_0' (launcher: <local>) ...
+2024-10-30 23:05:17.815679 (1691823) session_ INFO    Analysis session with session id 'session_0' started (pid: 1691882)
+2024-10-30 23:05:22.204899 (1691823) session_ INFO    Analysis session 'session_0' connected to the console (host: 127.0.0.1:54196)
+2024-10-30 23:05:28.999204 (1691823) main____ INFO    Releasing console memory by request of analysis session 'session_0'.
+2024-10-30 23:05:29.000879 (1691823) lic__man INFO    Unclaim everything for 'session_0'.
+2024-10-30 23:07:53.817248 (1691823) main____ INFO    Releasing console memory by request of analysis session 'session_0'.
+2024-10-30 23:07:53.817432 (1691823) lic__man INFO    Unclaim everything for 'session_0'.
+2024-10-30 23:08:44.809117 (1691823) main____ INFO    Releasing console memory by request of analysis session 'session_0'.
+2024-10-30 23:08:44.809184 (1691823) lic__man INFO    Unclaim everything for 'session_0'.
+2024-10-30 23:09:49.257649 (1691823) main____ INFO    Releasing console memory by request of analysis session 'session_0'.
+2024-10-30 23:09:49.257729 (1691823) lic__man INFO    Unclaim everything for 'session_0'.
+2024-10-30 23:09:49.644208 (1691823) lic__man INFO    Unclaim everything for 'session_0'.
+2024-10-30 23:09:49.720399 (1691823) lic__man INFO    Claim 'cov' for 'session_0'.
+2024-10-30 23:09:49.720440 (1691823) lic_core INFO    (4) checking out 'jasper_coverage' ...
+2024-10-30 23:09:49.725536 (1691823) lic_core INFO    ... (4) checkout failed (error: -5) ("FLEXnet ERROR(-5, 0, 0): No such feature exists.")
+2024-10-30 23:09:49.725562 (1691823) lic_core INFO    (5) checking out 'jasper_pcov' ...
+2024-10-30 23:09:49.736652 (1691823) lic_core INFO    ... (5) checkout succeeded
+2024-10-30 23:09:50.855648 (1691823) lic__man INFO    Claim 'fpv' for 'session_0'.
+2024-10-30 23:09:50.855697 (1691823) lic__man INFO    Claim 'fpv' for 'session_0/prove-0'.
+2024-10-30 23:09:51.101503 (1691823) lic__man INFO    Unclaim everything for 'session_0/prove-2'.
+2024-10-30 23:09:51.740920 (1691823) lic__man INFO    Unclaim everything for 'session_0/prove-1'.
+2024-10-30 23:09:52.591777 (1691823) lic__man INFO    Unclaim everything for 'session_0/prove-0'.
+2024-10-30 23:11:14.086334 (1691823) main____ INFO    Releasing console memory by request of analysis session 'session_0'.
+2024-10-30 23:11:14.086419 (1691823) lic__man INFO    Unclaim everything for 'session_0'.
+2024-10-30 23:11:14.817596 (1691823) lic__man INFO    Unclaim everything for 'session_0'.
+2024-10-30 23:11:15.018808 (1691823) lic__man INFO    Claim 'cov' for 'session_0'.
+2024-10-30 23:11:16.038577 (1691823) lic__man INFO    Claim 'fpv' for 'session_0'.
+2024-10-30 23:11:16.038618 (1691823) lic__man INFO    Claim 'fpv' for 'session_0/prove-0'.
+2024-10-30 23:11:16.583648 (1691823) lic__man INFO    Unclaim everything for 'session_0/prove-2'.
+2024-10-30 23:11:16.586203 (1691823) lic__man INFO    Unclaim everything for 'session_0/prove-4'.
+2024-10-30 23:11:16.923246 (1691823) lic__man INFO    Unclaim everything for 'session_0/prove-1'.
+2024-10-30 23:11:17.044418 (1691823) lic__man INFO    Unclaim everything for 'session_0/prove-3'.
+2024-10-30 23:11:17.799879 (1691823) lic__man INFO    Unclaim everything for 'session_0/prove-0'.
+2024-10-30 23:11:29.526543 (1691823) lic__man INFO    Claim 'fpv' for 'session_0'.
+2024-10-30 23:11:29.526572 (1691823) lic__man INFO    Claim 'fpv' for 'session_0/prove-6'.
+2024-10-30 23:11:29.816077 (1691823) lic__man INFO    Unclaim everything for 'session_0/prove-7'.
+2024-10-30 23:11:31.106620 (1691823) lic__man INFO    Unclaim everything for 'session_0/prove-6'.
+2024-10-30 23:11:31.901142 (1691823) lic__man INFO    Unclaim everything for 'session_0/prove-5'.
+2024-10-30 23:12:09.827101 (1691823) lic__man INFO    Claim 'fpv' for 'session_0'.
+2024-10-30 23:13:26.359425 (1691823) main____ INFO    Releasing console memory by request of analysis session 'session_0'.
+2024-10-30 23:13:26.359534 (1691823) lic__man INFO    Unclaim everything for 'session_0'.
+2024-10-30 23:14:26.255372 (1691823) lic_core INFO    (5) checkin jasper_pcov
+2024-10-30 23:31:30.255367 (1691823) lic__man INFO    Entering idle state.
+2024-10-30 23:45:58.930351 (1691823) lic__man INFO    Leaving idle state.
+2024-10-30 23:53:59.255351 (1691823) lic__man INFO    Entering idle state.
